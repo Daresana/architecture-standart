@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1850" height="1450" viewBox="0 0 1850 1450">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9" fill="none" stroke="#576574" stroke-width="1.5"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<rect x="60" y="100" width="320" height="120" fill="#d5e8d4" stroke="#6c8ebf"/>
+<text x="220.0" y="141.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Бэк-офис</text>
+<text x="220.0" y="167.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">[Person]</text>
+<text x="220.0" y="193.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Расчёт и согласование</text>
+<rect x="60" y="420" width="320" height="150" fill="#f5f5f5" stroke="#6c8ebf"/>
+<text x="220.0" y="476.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">АБС</text>
+<text x="220.0" y="502.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">[Software System]</text>
+<text x="220.0" y="528.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Утверждённые ставки</text>
+<rect x="700" y="420" width="350" height="150" fill="#dae8fc" stroke="#6c8ebf"/>
+<text x="875.0" y="476.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Интернет-банк</text>
+<text x="875.0" y="502.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">[Software System]</text>
+<text x="875.0" y="528.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Копия общих ставок</text>
+<rect x="700" y="800" width="350" height="150" fill="#f5f5f5" stroke="#6c8ebf"/>
+<text x="875.0" y="856.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Кол-центр банка</text>
+<text x="875.0" y="882.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">[Software System]</text>
+<text x="875.0" y="908.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Получение общих ставок</text>
+<rect x="1350" y="420" width="350" height="150" fill="#f5f5f5" stroke="#6c8ebf"/>
+<text x="1525.0" y="476.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">SFTP банка</text>
+<text x="1525.0" y="502.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">[Software System]</text>
+<text x="1525.0" y="528.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Готовые файлы CSV</text>
+<rect x="1350" y="800" width="350" height="150" fill="#f5f5f5" stroke="#6c8ebf"/>
+<text x="1525.0" y="843.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Кол-центр партнёра</text>
+<text x="1525.0" y="869.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">[Software System]</text>
+<text x="1525.0" y="895.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Получение CSV и</text>
+<text x="1525.0" y="921.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">загрузка ставок</text>
+<rect x="700" y="1180" width="350" height="120" fill="#d5e8d4" stroke="#6c8ebf"/>
+<text x="875.0" y="1234.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Оператор банка</text>
+<text x="875.0" y="1260.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">[Person]</text>
+<rect x="1350" y="1180" width="350" height="120" fill="#d5e8d4" stroke="#6c8ebf"/>
+<text x="1525.0" y="1234.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">Оператор партнёра</text>
+<text x="1525.0" y="1260.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="20">[Person]</text>
+<polyline points="220,220 220,420" fill="none" stroke="#576574" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="380,495 700,495" fill="none" stroke="#576574" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="875,800 875,570" fill="none" stroke="#576574" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1050,495 1350,495" fill="none" stroke="#576574" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1525,800 1525,570" fill="none" stroke="#576574" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="875,1180 875,950" fill="none" stroke="#576574" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1525,1180 1525,950" fill="none" stroke="#576574" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="240" y="290" width="350" height="70" fill="white"/>
+<text x="415.0" y="330.5" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">UC1: XLS → согласование</text>
+<rect x="390" y="405" width="300" height="75" fill="white"/>
+<text x="540.0" y="436.5" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">Утверждённая версия</text>
+<text x="540.0" y="459.5" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">[Kafka / TLS]</text>
+<rect x="890" y="650" width="340" height="80" fill="white"/>
+<text x="1060.0" y="684.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">UC2: общие ставки</text>
+<text x="1060.0" y="707.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">[HTTPS / JSON]</text>
+<rect x="1060" y="405" width="280" height="75" fill="white"/>
+<text x="1200.0" y="436.5" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">UC3: загрузка CSV</text>
+<text x="1200.0" y="459.5" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">[SFTP]</text>
+<rect x="1540" y="650" width="280" height="80" fill="white"/>
+<text x="1680.0" y="684.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">UC3: забрать файл</text>
+<text x="1680.0" y="707.0" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">[SFTP]</text>
+<rect x="890" y="1040" width="310" height="60" fill="white"/>
+<text x="1045.0" y="1075.5" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">Консультация клиента</text>
+<rect x="1540" y="1040" width="280" height="60" fill="white"/>
+<text x="1680.0" y="1075.5" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="17">UC4: консультация</text>
+<rect x="40" y="1340" width="1770" height="75" fill="white"/>
+<text x="925.0" y="1385.5" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="22">Во внешние файлы включаются только общие ставки. Персональные предложения, данные клиентов и показатели риска не передаются.</text>
+<rect x="30" y="15" width="1790" height="55" fill="white"/>
+<text x="925.0" y="53.5" text-anchor="middle" fill="#172a3a" font-family="Arial,sans-serif" font-size="28">ST-ADR-2 — C4 Context, передача общих ставок</text>
+</svg>
